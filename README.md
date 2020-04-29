@@ -16,9 +16,9 @@ In this project you'll take take an almost completed e-commerce store and refact
 
 ## Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
-- [ ] Clone your OWN version of the repository in your terminal.
+- [x] Create a forked copy of this project.
+- [x] Add your team lead as collaborator on Github.
+- [x] Clone your OWN version of the repository in your terminal.
 - [ ] CD into the project base directory `cd react-shopping-cart`.
 - [ ] Download project dependencies by running `npm install`.
 - [ ] Start up the app using `npm start`.
@@ -170,3 +170,7 @@ Do not attempt stretch problems until MVP has been reached and a final commit ha
   Remember each item has an `id` this will help out a lot while creating your removeItem function!
 
 - Persist Cart Items using `localStorage`. (If you try this one, it will be a bit tricky to get our items to populate the shopping cart on a refresh. You'll have to think about where the data actually lives, and how you can get data there from localStorage when the app is being mounted after a refresh. Good luck!)
+
+
+
+(((test commit)))
